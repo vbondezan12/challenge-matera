@@ -21,5 +21,16 @@ Before you can run the tests, ensure you have the following installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/cat-breeds-api-testing.git
-   cd cat-breeds-api-testing
+   git clone https://github.com/vbondezan12/challenge-matera.git
+
+2. **installing dependencies**
+
+   ```bash
+   npm i
+
+3. **executing cypres types**
+
+- **Headeless**: npx cypress run
+- **Cypress test runner**: npx cypress open 
+
+
