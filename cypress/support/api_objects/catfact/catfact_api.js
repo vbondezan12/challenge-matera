@@ -1,5 +1,5 @@
 
-const defaultHeader = require('C:/Projetos/challenge-matera/cypress/fixtures/header.json')
+const defaultHeader = require('../../../fixtures/header.json')
 const baseUrl = 'https://catfact.ninja'
 
 export class CatFactApi {
